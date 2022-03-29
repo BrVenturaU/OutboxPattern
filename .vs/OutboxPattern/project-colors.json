@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73ee390f-c54a-45db-8846-160364104528": {
+      "ProjectGuid": "73ee390f-c54a-45db-8846-160364104528",
+      "DisplayName": "OutboxPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
